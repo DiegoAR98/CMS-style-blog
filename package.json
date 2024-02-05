@@ -1,5 +1,5 @@
 {
-    "name": "CMS-style-blog",
+    "name": "CMS-style.blog",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
@@ -27,3 +27,4 @@
       "prettier": "^2.1.2"
     }
   }
+  
