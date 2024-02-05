@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS styleblog_db;
+CREATE DATABASE styleblog_db;
